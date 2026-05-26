@@ -1,16 +1,24 @@
-# React + Vite
+d# 🤖 Mini-Bot: A Lightweight Frontend Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, interactive frontend chatbot built using **React** and modern web technologies. This project showcases dynamic UI rendering, state management, and real-time interaction without the need for a heavy backend. 
 
-Currently, two official plugins are available:
+Whether you need a quick decision or just want to check the time, Mini-Bot is ready to assist!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Mini-Bot comes packed with three core interactive features:
 
-## Expanding the ESLint configuration
+* **🪙 Flip a Coin:** Can't make up your mind? Ask the bot to flip a coin for an instant, randomized "Heads" or "Tails" result.
+* **🎲 Roll a Dice:** Simulates a standard 6-sided dice roll. Perfect for tabletop games or random number generation.
+* **📅 Tell the Date & Time:** Keeps you on track by fetching and formatting the current date and time instantly.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend Library:** React.js
+* **Styling:** CSS3 / Flexbox (Custom responsive design)
+* **State Management:** React Hooks (`useState`, `useEffect`)
+* **Build Tool:** Vite
